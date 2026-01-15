@@ -8,7 +8,7 @@ Prática: exemplos em Python, notebooks interativos e exercícios
 
 Projetos: aplicações reais e experimentos com diferentes técnicas
 
-Recursos:https://notebooklm.google.com/notebook/db7d8f6f-25bf-47be-9ef5-bd8228b9c45f
+Recursos: https://notebooklm.google.com/notebook/db7d8f6f-25bf-47be-9ef5-bd8228b9c45f
 
 🚀 Público-alvo
 Estudantes, curiosos e profissionais que desejam aprender, revisar ou compartilhar conhecimento sobre Inteligência Artificial.
